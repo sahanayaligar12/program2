@@ -1,6 +1,4 @@
-package program2;
-
- import java.text.SimpleDateFormat;
+import java.text.SimpleDateFormat;
 import java.text.ParseException;
 import java.util.Calendar;
 import java.util.Date;
